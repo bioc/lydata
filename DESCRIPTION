@@ -1,0 +1,13 @@
+Package: lydata
+Title: Example Dataset for crossmeta Package
+Version: 0.99.1
+Author: Alex Pickering
+Maintainer: Alex Pickering <alexvpickering@gmail.com>
+Description: Raw data downloaded from GEO for the compound LY294002.
+        Raw data is from multiple platforms from Affymetrix and
+        Illumina. This data is used to illustrate the cross-platform
+        meta-analysis of microarray data using the crossmeta package.
+License: MIT + file LICENSE
+LazyData: TRUE
+biocViews: ExperimentData, MicroarrayData
+NeedsCompilation: no
