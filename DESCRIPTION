@@ -1,6 +1,6 @@
 Package: lydata
 Title: Example Dataset for crossmeta Package
-Version: 0.99.1
+Version: 1.0.0
 Author: Alex Pickering
 Maintainer: Alex Pickering <alexvpickering@gmail.com>
 Description: Raw data downloaded from GEO for the compound LY294002.
